@@ -2,4 +2,5 @@ main
 another min commit
 
 feature1
+also feature 2
 also in feature 1
