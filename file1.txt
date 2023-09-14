@@ -1,5 +1,2 @@
 main
 another min commit
-
-feature 1
-also in feature 1
