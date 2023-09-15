@@ -4,3 +4,5 @@ another min commit
 feature 2
 also feature 2
 also feature 2
+
+feature 5
