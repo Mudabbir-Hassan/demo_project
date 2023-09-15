@@ -1,6 +1,6 @@
 main
 another min commit
 
-feature1
-also feature 2
-also in feature 1
+feature3
+also feature 3
+also in feature 3
