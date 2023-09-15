@@ -4,3 +4,6 @@ another min commit
 feature1
 also feature 2
 also in feature 1
+
+branch 3
+text in branch 3
